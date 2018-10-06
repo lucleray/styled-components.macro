@@ -1,4 +1,4 @@
-### 🎣 styled-components.macro
+## 🎣 styled-components.macro
 
 A `babel-plugin-macros` macro for styled-components.
 
