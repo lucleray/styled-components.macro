@@ -1,3 +1,7 @@
+⚠️ This repo is not active. If you want a macro for styled-components, use use [`styled-components/macro`](https://www.styled-components.com/docs/tooling#babel-macro).
+
+---
+
 ## styled-components.macro 🎣
 
 A `babel-plugin-macros` macro for `styled-components`.
