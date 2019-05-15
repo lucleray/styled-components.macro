@@ -1,4 +1,4 @@
-⚠️ This repo is not active. If you want a macro for styled-components, use use [`styled-components/macro`](https://www.styled-components.com/docs/tooling#babel-macro).
+⚠️ This repo is not active. If you want a macro for styled-components, use [`styled-components/macro`](https://www.styled-components.com/docs/tooling#babel-macro).
 
 ---
 
