@@ -1,7 +1,7 @@
 {
   "name": "styled-components.macro",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "macro.js",
   "license": "MIT",
   "keywords": [
     "babel-plugin-macros"
